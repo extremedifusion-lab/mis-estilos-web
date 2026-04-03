@@ -12,7 +12,7 @@
         text-align: center;
     }
 
-    /*h2 {
+    h2 {
         color: var(--text-main);
         font-size: 1.8rem;
         line-height: 1.2;
@@ -20,7 +20,7 @@
         background: linear-gradient(to bottom right, #e2e8f0, #475569);
         -webkit-background-clip: text;
         -webkit-text-fill-color: transparent;
-    }*/
+    }
 
     p {
         color: var(--text-muted);
